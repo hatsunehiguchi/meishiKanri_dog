@@ -1,0 +1,9 @@
+diff a/search_list.html b/search_list.html	(rejected hunks)
+@@ -7,6 +7,6 @@
+ 
+ </head>
+ <body>
+-<h1>名刺検索一覧_ 仮</h1>
++<h1>名刺検索一覧_仮</h1>
+ </body>
+ </html>
